@@ -1,7 +1,6 @@
 
 #include "main_window.h"
 #include "ui_mainwindow.h"
-
 #define TEST_PARAM "testParam"
 
 MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent), ui(new Ui::MainWindow) {
